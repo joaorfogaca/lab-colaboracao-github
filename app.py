@@ -1,3 +1,4 @@
 print("Olá Mundo")
 
-# Funções futuras virão aqui
+def soma(a, b):
+	return a + b
